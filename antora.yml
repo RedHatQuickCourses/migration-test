@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: migration-test
+title: Migration test
 version: 1
 nav:
 - modules/ROOT/nav.adoc

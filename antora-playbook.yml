@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Migration test
+  start_page: migration-test::index.adoc
 
 content:
   sources:
