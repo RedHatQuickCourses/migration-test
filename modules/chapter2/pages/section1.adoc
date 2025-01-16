@@ -1,3 +1,5 @@
-= Guided solution (page 1 of 2)
+= Launch an openstack instance
 
-FIXME: Provide step-by-step instructions here to resolve the issue.
+. step 1
+. step 2
+. step 3
